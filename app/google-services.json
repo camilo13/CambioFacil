@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768547990418",
+    "project_id": "cursoandroid2021-317801",
+    "storage_bucket": "cursoandroid2021-317801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768547990418:android:7b115c2fa53b3c35d6af4b",
+        "android_client_info": {
+          "package_name": "com.cambiofacil3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768547990418-3uadc6q356mrm9g5q5tp33a0gn2eot6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWx4p2M2MiSpEugs1zp5n-oO69aZMvhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768547990418-3uadc6q356mrm9g5q5tp33a0gn2eot6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
